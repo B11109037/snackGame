@@ -1,0 +1,11 @@
+# Maven / Java
+target/
+bin/
+*.class
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
